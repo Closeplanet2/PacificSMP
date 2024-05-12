@@ -7,11 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="pacificsmp" />
+        <module name="PacificSMP-1.0.0-SNAPSHOT" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="PacificSMP" target="1.8" />
+      <module name="pacificsmp" target="17" />
+      <module name="pacificsmp-1.20.1" target="17" />
+      <module name="pacificsmp-1.20.4" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

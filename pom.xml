@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pandapulsestudios</groupId>
-    <artifactId>pacificsmp</artifactId>
+    <artifactId>PacificSMP-1.0.0-SNAPSHOT</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>PacificSMP</name>
@@ -57,7 +57,7 @@
         <dependency>
             <groupId>com.pandapulsestudios</groupId>
             <artifactId>pulseconfig</artifactId>
-            <version>1.4.5-a</version>
+            <version>2.0.3</version>
         </dependency>
         <dependency>
             <groupId>com.pandapulsestudios</groupId>

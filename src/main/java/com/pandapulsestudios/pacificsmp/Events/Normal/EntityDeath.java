@@ -4,7 +4,6 @@ import com.pandapulsestudios.pacificsmp.Enum.Normal.NBTTags;
 import com.pandapulsestudios.pacificsmp.Enum.Static.Message;
 import com.pandapulsestudios.pacificsmp.PacificSMP;
 import com.pandapulsestudios.pacificsmp.PulseConfigs.Static.Messages;
-import com.pandapulsestudios.pulsecore.Data.API.UUIDDataAPI;
 import com.pandapulsestudios.pulsecore.JavaAPI.Interface.PulseAutoRegister;
 import com.pandapulsestudios.pulsecore.NBTAPI.API.NBTAPI;
 import com.pandapulsestudios.pulsecore.StorageDataAPI.API.UUIDStorageAPI;
