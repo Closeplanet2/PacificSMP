@@ -1,0 +1,5 @@
+name: PacificSMP
+version: 1.0.0-SNAPSHOT
+main: com.pandapulsestudios.pacificsmp.PacificSMP
+api-version: 1.20
+depend: [PulseConfig, PulseCommands, PulseCore]
