@@ -4,9 +4,7 @@ Craftable Totems (Dolphins) that each give different lingering effects based on 
 Plugin Forum Link: https://bukkit.org/threads/pacific-smp-plugin.503685/
 
 # Devlog
-### Check out this video!
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7A-eNlAXkg4/0.jpg)](https://www.youtube.com/watch?v=7A-eNlAXkg4)
+[![Watch the video](https://img.youtube.com/vi/7A-eNlAXkg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=7A-eNlAXkg4)
 
 # Downloads
 * 1.20.4 - [https://github.com/Closeplanet2/PacificSMP/releases/tag/1.20.4](https://github.com/Closeplanet2/PacificSMP/releases/tag/1.20.4)
