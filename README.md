@@ -72,6 +72,7 @@ ResetConfigEvent extends Event
 /pacificsmp dolphin give <PLAYER> <DOLPHIN>
 /pacificsmp dolphin clear <PLAYER>
 /pacificsmp dolphin max <Amount>
+/pacificsmp dolphin item <PLAYER> <Amount>
 ```
 
 # Crafting Recipes
