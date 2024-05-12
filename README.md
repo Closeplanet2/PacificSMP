@@ -7,8 +7,8 @@ Plugin Forum Link: https://bukkit.org/threads/pacific-smp-plugin.503685/
 [![Watch the video](https://img.youtube.com/vi/7A-eNlAXkg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=7A-eNlAXkg4)
 
 # Downloads
-* 1.20.4 - [https://github.com/Closeplanet2/PacificSMP/releases/tag/1.20.4](https://github.com/Closeplanet2/PacificSMP/releases/tag/1.20.4)
-* 1.20.1 - [https://github.com/Closeplanet2/PacificSMP/releases/tag/1.20.1](https://github.com/Closeplanet2/PacificSMP/releases/tag/1.20.1)
+* 1.20.4 - [https://github.com/Closeplanet2/PacificSMP/releases/tag/PacificSMP-1.20.4-1.0.1-SNAPSHOT](https://github.com/Closeplanet2/PacificSMP/releases/tag/PacificSMP-1.20.4-1.0.1-SNAPSHOT)
+* 1.20.1 - [https://github.com/Closeplanet2/PacificSMP/releases/tag/PacificSMP-1.20.1-1.0.1-SNAPSHOT](https://github.com/Closeplanet2/PacificSMP/releases/tag/PacificSMP-1.20.1-1.0.1-SNAPSHOT)
 
 # Mavern
 ```
