@@ -30,6 +30,9 @@ Plugin Forum Link: https://bukkit.org/threads/pacific-smp-plugin.503685/
 * [https://github.com/Closeplanet2/PulseConfig/releases/tag/2.0.3](https://github.com/Closeplanet2/PulseConfig/releases/tag/2.0.3) -> Uses to auto srialise the configs!
 * [https://github.com/Closeplanet2/PulseCoreAbstract/releases/tag/1.0.1-SNAPSHOT](https://github.com/Closeplanet2/PulseCoreAbstract/releases/tag/1.0.1-SNAPSHOT) -> USes the auto player command methods
 
+# External Depends
+* [https://www.spigotmc.org/resources/placeholderapi.6245/](https://www.spigotmc.org/resources/placeholderapi.6245/)
+
 # How to use the plugin
 1. Install this plugin on your server
 2. Download the depends on your server
