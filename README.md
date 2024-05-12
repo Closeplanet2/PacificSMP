@@ -42,6 +42,9 @@ Plugin Forum Link: https://bukkit.org/threads/pacific-smp-plugin.503685/
 1. Change the settings in the config below
 2. Reload The configs
 
+# Other Work
+* [http://joshuafiler.org](http://joshuafiler.org)
+
 # PacificSMP API for develoeprs
 ```
 public static void EnableSystem(boolean state);
